@@ -1,3 +1,4 @@
 category: KDE
+requires:
 sdesc: "KDE Oxygen icon theme"
 ldesc: "Base runtime components for the K Desktop Environment."
