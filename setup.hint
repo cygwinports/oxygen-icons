@@ -1,4 +1,0 @@
-category: KDE
-requires: hicolor-icon-theme
-sdesc: "KDE Oxygen icon theme"
-ldesc: "Base runtime components for the K Desktop Environment."

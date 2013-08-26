@@ -1,0 +1,11 @@
+inherit kde4
+
+NAME="oxygen-icons"
+VERSION=4.10.5
+RELEASE=1
+CATEGORY="KDE"
+SUMMARY="KDE Oxygen icon theme"
+DESCRIPTION="Base runtime components for the K Desktop Environment."
+REQUIRES="hicolor-icon-theme"
+
+RESTRICT="diff"

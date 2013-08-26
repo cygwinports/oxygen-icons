@@ -1,4 +1,0 @@
-inherit kde4
-
-
-RESTRICT="diff"
