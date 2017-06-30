@@ -2,7 +2,7 @@ ORIG_PN="oxygen-icons5"
 inherit kf5
 
 NAME="oxygen-icons"
-VERSION=5.27.0
+VERSION=5.35.0
 RELEASE=1
 CATEGORY="KDE"
 SUMMARY="KDE Oxygen icon theme"
